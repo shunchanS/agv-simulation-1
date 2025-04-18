@@ -1,7 +1,9 @@
-.venv/
 __pycache__/
-*.pyc
-*.log
-*.zip
-tensorboard_log/
+*.py[cod]
+*.pyo
+.venv/
+env/
 models/
+tensorboard_log/
+.ipynb_checkpoints/
+.DS_Store
