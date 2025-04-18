@@ -1,0 +1,5 @@
+# 設定ファイル
+
+AGV_COUNT = 3
+AREA_WIDTH = 11
+AREA_HEIGHT = 10
